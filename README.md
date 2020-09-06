@@ -1,49 +1,113 @@
-# Memory and resource management
+# Zarządzanie pamięcią i zasobami
 
 <a href="https://coders.school">
     <img width="500" data-src="coders_school_logo.png" src="coders_school_logo.png" alt="Coders School" class="plain">
 </a>
 
-## [Moduł 1](module1/)
+## [Moduł 1](module1/index.pl.html)
 
-### [Memory map](module1/memeory_management_memory_map.md)
+### [Mapa pamięci](module1/01_memory_map.pl.md)
 
-### [Stack vs Heap](module1/memeory_managementstack_vs_heap.md)
+### [Stos vs sterta](module1/02_stack_vs_heap.pl.md)
 
-### [Stack allocation](module1/memeory_management_stack_allocation.md)
+### [Alokacja na stosie](module1/03_stack_allocation.pl.md)
 
-### [Stack overflow](module1/memeory_management_stack_overflow.md)
+### [Przepełnienie stosu](module1/04_stack_overflow.pl.md)
 
-### [Heap allocation](module1/memeory_management_heap_allocation.md)
+### [Alokacja na stercie](module1/05_heap_allocation.pl.md)
 
-### [New expression and operator `new`](module1/memeory_management_new_expression.md)
+### [Wyrażenie `new` i `operator new`](module1/06_new_expression.pl.md)
 
-### [Dynamic array allocation](module1/memeory_management_array_allocation.md)
+### [Dynamiczna alokacja tablicy](module1/07_array_allocation.pl.md)
 
-### [Dynamic allocation problems](module1/memeory_management_allocation_problems.md)
+### [Problemy z alokacją dynamiczną](module1/08_allocation_problems.pl.md)
 
-### [A simple question...](module1/memeory_management_simple_question.md)
+### [Proste pytanie…](module1/09_simple_question.pl.md)
 
-### [RAII](module1/memeory_management_raii.md)
+### [RAII](module1/10_raii.pl.md)
 
-### [Memory corruption detection](module1/memeory_management_memory_corruption.md)
+### [Wykrywanie problemów z pamięcią](module1/11_memory_corruption.pl.md)
 
-## [Moduł 2](module2/)
+## [Moduł 2](module2/index.pl.md)
 
-### [Smart pointers](module2/smart_pointers_smart_ptrs.md)
+### [Inteligentne wskaźniki](module2/01_smart_ptrs.pl.md)
 
-### [`std::unique_ptr<>`](module2/smart_pointers_unique_ptr.md)
+### [`std::unique_ptr<>`](module2/02_unique_ptr.pl.md)
 
-### [`std::shared_ptr<>`](module2/smart_pointers_shared_ptr.md)
+### [`std::shared_ptr<>`](module2/03_shared_ptr.pl.md)
 
-### [`std::weak_ptr<>`](module2/smart_pointers_weak_ptr.md)
+### [`std::weak_ptr<>`](module2/04_weak_ptr.pl.md)
 
-### [`std::auto_ptr<>`](module2/smart_pointers_auto_ptr.md)
+### [`std::auto_ptr<>`](module2/05_auto_ptr.pl.md)
 
-### [Smart pointers - summary](module2/smart_pointers__summary.md)
+### [Inteligentne wskaźniki - podsumowanie](module2/06_summary.pl.md)
 
-### [Best practices](module2/smart_pointers_best_practices.md)
+### [Najlepsze praktyki](module2/07_best_practices.pl.md)
 
-### [Implementation details](module2/smart_pointers_implementation_details.md)
+### [Szczegóły implementacji](module2/08_implementation_details.pl.md)
 
-### [Efficiency](module2/smart_pointers_efficiency.md)
+### [Wydajność](module2/09_efficiency.pl.md)
+
+## [Moduł 3](module3/index.pl.md)
+
+### [Metody obsługi błędów](module3/01_error_handling.pl.md)
+
+### [Wyjątki](module3/02_exceptions.pl.md)
+
+### [Wydajność i koszt](module3/03_cost.pl.md)
+
+___
+
+# Memory and resource management
+
+## [Module 1](module1/index.en.html)
+
+### [Memory map](module1/01_memory_map.en.md)
+
+### [Stack vs Heap](module1/02_stack_vs_heap.en.md)
+
+### [Stack allocation](module1/03_stack_allocation.en.md)
+
+### [Stack overflow](module1/04_stack_overflow.en.md)
+
+### [Heap allocation](module1/05_heap_allocation.en.md)
+
+### [`new` expression and `operator new`](module1/06_new_expression.en.md)
+
+### [Dynamic array allocation](module1/07_array_allocation.en.md)
+
+### [Dynamic allocation problems](module1/08_allocation_problems.en.md)
+
+### [A simple question...](module1/09_simple_question.en.md)
+
+### [RAII](module1/10_raii.en.md)
+
+### [Memory corruption detection](module1/11_memory_corruption.en.md)
+
+## [Module 2](module2/index.en.md)
+
+### [Smart pointers](module2/01_smart_ptrs.en.md)
+
+### [`std::unique_ptr<>`](module2/02_unique_ptr.en.md)
+
+### [`std::shared_ptr<>`](module2/03_shared_ptr.en.md)
+
+### [`std::weak_ptr<>`](module2/04_weak_ptr.en.md)
+
+### [`std::auto_ptr<>`](module2/05_auto_ptr.en.md)
+
+### [Smart pointers - summary](module2/06_summary.en.md)
+
+### [Best practices](module2/07_best_practices.en.md)
+
+### [Implementation details](module2/08_implementation_details.en.md)
+
+### [Efficiency](module2/09_efficiency.en.md)
+
+## [Module 3](module3/index.en.md)
+
+### [Error handling methods](module3/01_error_handling.en.md)
+
+### [Exceptions](module3/02_exceptions.en.md)
+
+### [Efficiency and cost](module3/03_cost.en.md)
